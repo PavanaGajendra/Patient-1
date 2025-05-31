@@ -1,2 +1,2 @@
-# Patient-1
-MRI Scan and json file of patient 1
+# Patients Scanning Data
+MRI/ CT Scan and json file of patients
